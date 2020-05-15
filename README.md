@@ -1,8 +1,10 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) ![alt text](https://www.chartjs.org/img/chartjs-logo.svg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) ![alt text](https://2.bp.blogspot.com/-GDx4n0_R6Wc/WSRVccO-sUI/AAAAAAAACSc/o5zSrn26UBsHcw6ST5h_a8202sAya6r-QCLcB/s1600/chartjs-tutsplus.jpg)
 
 # Gráficos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+Use chartjs library (https://www.chartjs.org/)
 
 ![](Graficos-demo.gif)
 
